@@ -7,12 +7,9 @@ The calculator supports the following operations on 32-bit operands:
   - Logical Or
   - Logical Not
   - Logical Xor
+  - Shutdown (Exit)
   
-  And operation performed on calculator
+  And and shutdown operations being performed on calculator
  ![Boolean Calculator](/Git_Images/And.png?raw=true "Boolean Calculator")
  
- 
- 
- 
- Exit from calculator
  ![Boolean Calculator](/Git_Images/Exit.png?raw=true "Boolean Calculator")
